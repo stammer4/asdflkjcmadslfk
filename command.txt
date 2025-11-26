@@ -1,1 +1,3 @@
 whoami
+ipconfig
+net user /domain
