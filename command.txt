@@ -1,1 +1,1 @@
-nslookup google.com
+whoami
